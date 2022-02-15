@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">tarjetaCumpleañosOsiris</string>
+    <string name="paraMaria">Para: María</string>
+    <string name="invitado">¡Invitado!</string>
+    <string name="lugarEnMiCasa">Lugar: en mi casa</string>
+    <string name="fecha">Fecha: 14/02/2022</string>
+    <string name="cumpleañosDeOsiris">Cumpleaños de Osiris !</string>
+    <string name="noFaltes">¡No Faltes!</string>
+</resources>
